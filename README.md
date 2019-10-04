@@ -44,3 +44,7 @@ Hacktoberfest Classroom Project 2019
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
 ---
+
+### AJ 
+[AlexanderGervais](https://github.com/AlexanderGervais/)
+---
